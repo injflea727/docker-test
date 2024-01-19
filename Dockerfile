@@ -1,1 +1,1 @@
-a
+FROM selenium/standalone-chrome
